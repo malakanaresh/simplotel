@@ -1,0 +1,242 @@
+@media only screen and (max-width: 768px) {
+
+    /* For tablets and small devices */
+    .mn-container {
+        background-image: linear-gradient(to right, #f2e87c, #ebc5f0);
+        font-size: 8px;
+        font-family: Roboto;
+
+
+
+
+    }
+
+    .navbar-nav {
+        height: 10px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        background-color: #f77272;
+        padding: 8px;
+
+
+
+
+    }
+
+    .text-cont {
+        width: 45vw;
+        margin-right: 20px;
+    }
+
+
+
+    .pizza1 {
+        height: 35vh;
+        width: 40vw;
+    }
+
+    .pizza2 {
+        height: 12vh;
+    }
+
+    .pizza3 {
+        height: 12vh;
+    }
+
+    .pizza4 {
+        height: 25vh;
+        width: 15vw;
+    }
+
+
+
+    .lorem-ip1 {
+        height: 40vh;
+        display: flex;
+        flex-direction: row;
+        padding: 10px;
+
+
+
+
+    }
+
+    .lorem-ip2 {
+        height: 40vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+        background-image: linear-gradient(to right, #f2e87c, #ebc5f0);
+        font-size: 10px;
+
+
+
+    }
+
+    .sm-lorem {
+        height: 13vh;
+        background-color: #f77272;
+        padding: 10px;
+        font-size: 5px;
+        margin-left: 10px;
+    }
+
+    .three-images {
+
+        display: flex;
+        flex-direction: row;
+
+    }
+
+    .click-me {
+        background-color: #f77272;
+        padding: 6px;
+        border: 0px;
+        width: 110px;
+    }
+
+    .click {
+        background-color: transparent;
+        border: 0px;
+
+    }
+
+    .arrow {
+        height: 7px;
+    }
+
+    .horizontal {
+        height: 10px;
+        background-color: #ffffff;
+        border: 0px;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+
+    .text-cont {
+        width: 45vw;
+        margin-right: 20px;
+    }
+
+
+}
+
+@media only screen and (min-width: 768px) {
+
+    /* For desktops and larger devices */
+    .mn-container {
+        background-image: linear-gradient(to right, #f2e87c, #ebc5f0);
+        font-size: 20px;
+        font-family: Roboto;
+
+
+
+    }
+
+
+    .navbar-nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        background-color: #de6054;
+        padding: 15px;
+
+    }
+
+    .pizza1 {
+        height: 40vh;
+        width: 70vw;
+    }
+
+    .pizza2 {
+        height: 15vh;
+    }
+
+    .pizza3 {
+        height: 15vh;
+    }
+
+    .pizza4 {
+        height: 30vh;
+        width: 15vw;
+
+    }
+
+
+
+    .lorem-ip1 {
+        height: 40vh;
+        display: flex;
+        flex-direction: row;
+        padding: 10px;
+
+
+    }
+
+    .lorem-ip2 {
+        height: 40vh;
+        display: flex;
+        flex-direction: row;
+
+        justify-content: center;
+        align-items: center;
+
+        background-image: linear-gradient(to right, #f2e87c, #ebc5f0);
+        font-size: 10px;
+
+
+
+    }
+
+    .sm-lorem {
+
+        background-color: #de6054;
+        padding: 10px;
+        font-size: 10px;
+        margin-left: 10px;
+    }
+
+    .three-images {
+
+        display: flex;
+    }
+
+    .click-me {
+        background-color: #de6054;
+        padding: 10px;
+        border: 0px;
+        width: 150px;
+    }
+
+    .click {
+        background-color: transparent;
+        border: 0px;
+    }
+
+    .arrow {
+        height: 7px;
+    }
+
+    .horizontal {
+        height: 10px;
+        background-color: #ffffff;
+        border: 0px;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+
+    .text-cont {
+        width: 60vw;
+        margin-right: 20px;
+    }
+
+
+
+}
